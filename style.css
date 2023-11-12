@@ -4,8 +4,4 @@
   overflow: hidden; 
   transition: height 0.3s ease; 
 }
-
-.splide__slide.is-active {
-  height: auto;
-}
 </style>
